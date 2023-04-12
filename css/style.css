@@ -18,7 +18,7 @@ body{
 }
 
 .container{
-    background-color: #369add;
+    background-color: #307ace;
     box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
@@ -93,7 +93,7 @@ margin: 0.6rem 0;
     align-items: center;
 }
 
-#details-container #umidity{
+#details-container #humidity{
     border-right: 1px solid #fff;
     margin: 0.6rem;
     padding: 0.6rem;
